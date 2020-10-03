@@ -1,0 +1,45 @@
+.info-header {
+    font-weight: bold;
+}
+.texto-titulo-carousel {
+ color: black;
+ font-weight: bold;
+ font-family: 'Lobster', cursive;
+}
+.parrafo-carousel {
+ color:black;
+ font-weight: bold;
+ font-family: 'Concert One', cursive;
+}
+.contenedor-texto-carousel {
+    background: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.banner-widgets {
+    background: red;
+    /*max-width: 100vw;*/
+}
+.contenedor-widgets {
+   /* max-width: 1320px; */
+    
+}
+
+.texto-banner {
+    color: white;
+}
+.footer {
+    background: red;
+    /*max-width: 100vw;*/
+}
+.parrafo-footer {
+    color:white;
+}
+.banner-para-movil {
+    background: red;
+    color:white;
+}
+.boton-carousel {
+    height: 50px;
+    margin-top:270px;
+}/*CORRECCION HECHA A LOS BOTONES CAROUSEL PARA CORREGIR PROBLEMA DEL DIV QUE ABARCA TODA LA PANTALLA*/

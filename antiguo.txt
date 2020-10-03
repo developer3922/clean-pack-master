@@ -1,0 +1,67 @@
+  <div class="content">
+        
+    <section class="header">
+        <div class="logo">
+          <img src="../img/cplogo.svg">
+        </div>
+
+        <div class="menu">
+          <nav class="navigation">
+            <a href="#">Home</a>
+            <a href="#">Products</a>
+            <a href="#">Contact</a>
+            <a href="#">About Us</a>
+            <a href="#">Español</a>
+          </nav>
+        </div>
+
+        <div class="info">
+          <h2>Advanced Machinery Solutions &nbsp;•&nbsp; Assembly Lines&nbsp; •&nbsp; All for Industrial Production</h2>
+        </div>
+
+    </section> <!--Header-->
+
+    <section class="hero">
+        <div class="background-hero">
+          <img src="../img/hero.gif" alt="hero">
+        </div>
+        <div class="texto-hero">
+            <h2>Welcome</h2>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic corporis veritatis, modi voluptates sequi amet incidunt enim voluptatibus deserunt eius perspiciatis doloribus asperiores cumque natus impedit fugiat accusamus facilis ipsum?
+            </p>
+        </div>
+    </section> <!--hero-->
+
+    <section class="widget">
+        <div class="img-widget1">
+          <img src="./img/container1.gif">
+        </div>
+        <div class="content-widget1">
+            <h2>CONTENIDO 1</h2>
+        </div>
+        <div class="img-widget2">
+            <img src="./img/container2.gif">
+        </div>
+        <div class="content-widget2">
+          <h2>Contenido 2</h2>
+        </div>
+        <div class="img-widget3">
+          <img src="./img/container3.gif">
+        </div>
+        <div class="content-widget3">
+            <h2>CONTENIDO 3</h2>
+        </div>
+        <div class="img-widget4">
+          <img src="./img/container4.gif">
+        </div>
+        <div class="content-widget4">
+            <h2>CONTENIDO 4</h2>
+        </div>
+    </section> <!--Widget-->
+
+    <section class="footer">
+        <h2>CONTENIDO FOOTER</h2>
+    </section> <!--footer-->
+
+  </div> <!--CONTENT-->  
